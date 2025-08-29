@@ -1,5 +1,5 @@
 def root():
     return "Hello!"
 
-class RepoURL:
+class RepoURL():
     repo_url: str
