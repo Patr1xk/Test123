@@ -1,7 +1,7 @@
 def root():
     return "Hello!"
 
-def test();
+def test():
     return "Yen Hau"
 
 class RepoURL():
